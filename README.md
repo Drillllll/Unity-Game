@@ -1,6 +1,9 @@
 # Unity-Game
 Platform game created in unity. Version in polish language.
 
+![alt text](game_screenshot.jpg)
+
+
 assets used:
 
 RPG Essentials Sound Effects - FREE!
