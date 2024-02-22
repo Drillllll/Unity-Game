@@ -1,7 +1,11 @@
 # Unity-Game
-Platform game created in unity. Version in polish language.
+Platform game created in unity.
 
 ![alt text](https://github.com/Drillllll/Unity-Game/blob/main/game_screenshot.jpg?raw=true)
+
+
+
+https://github.com/Drillllll/Unity-Game/assets/118617644/9733e527-b438-47c6-915d-46dee07ef8c0
 
 
 assets used:
