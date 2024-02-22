@@ -1,5 +1,5 @@
 # Unity-Game
-Platform game created in unity.
+Platform game created in unity for university project.
 
 ![alt text](https://github.com/Drillllll/Unity-Game/blob/main/game_screenshot.jpg?raw=true)
 
